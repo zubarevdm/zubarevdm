@@ -42,14 +42,16 @@
 
 ### Избранные проекты
 
-- **[Migrant Legal Assistant](https://github.com/zubarevdm/migrant-legal-assistant-bot)** — Telegram-бот-ассистент для мигрантов: детерминированное rule-engine ядро + RAG по выверенной базе знаний, напоминания о дедлайнах. aiogram, LangGraph, pgvector, Docker, ~70 тестов.
-- **[WB Reviews Assistant](https://github.com/zubarevdm/wb-reviews-assistant)** — SaaS-помощник продавцов Wildberries: LLM-автоответы на отзывы с двухслойным фильтром безопасности и модерацией в Telegram. FastAPI, aiogram, шифрование токенов.
-- **[RentRadar](https://github.com/zubarevdm/rentradar)** — поиск недооценённых объявлений аренды со скорингом и LLM-анализом фото, автопостинг в Telegram. Python, SQLAlchemy, 140+ тестов.
-- **[LLM Support-QA Scorer](https://github.com/zubarevdm/llm-support-qa-scorer)** — оценка качества тикетов поддержки через LLM-as-judge по настраиваемой рубрике. FastAPI + CLI, запускается офлайн без ключа.
-- **[PII Gateway](https://github.com/zubarevdm/pii-gateway)** — локальный прокси, обезличивающий персональные данные перед отправкой в зарубежные LLM. FastAPI, natasha NER.
-- **[AIComply](https://github.com/zubarevdm/aicomply)** — SaaS под EU AI Act: обучение AI-грамотности, квиз и верифицируемые сертификаты. Next.js, Supabase, Stripe.
+_Код репозиториев приватный — предоставлю доступ или проведу демо по запросу._
 
-Ещё: [152-FZ Compliance Scanner](https://github.com/zubarevdm/ru-152fz-compliance-scanner) · [Auto-Service Automation](https://github.com/zubarevdm/auto-service-automation) · [Barber Booking App](https://github.com/zubarevdm/barber-booking-app)
+- **Visarium** — Telegram-бот-ассистент для мигрантов: детерминированное rule-engine ядро + RAG по выверенной базе знаний, напоминания о дедлайнах. aiogram, LangGraph, pgvector, Docker, ~70 тестов.
+- **WB Reviews Assistant** — SaaS-помощник продавцов Wildberries: LLM-автоответы на отзывы с двухслойным фильтром безопасности и модерацией в Telegram. FastAPI, aiogram, шифрование токенов.
+- **RentRadar** — поиск недооценённых объявлений аренды со скорингом и LLM-анализом фото, автопостинг в Telegram. Python, SQLAlchemy, 140+ тестов.
+- **LLM Support-QA Scorer** — оценка качества тикетов поддержки через LLM-as-judge по настраиваемой рубрике. FastAPI + CLI, запускается офлайн без ключа.
+- **PII Gateway** — локальный прокси, обезличивающий персональные данные перед отправкой в зарубежные LLM. FastAPI, natasha NER.
+- **AIComply** — SaaS под EU AI Act: обучение AI-грамотности, квиз и верифицируемые сертификаты. Next.js, Supabase, Stripe.
+
+Ещё: 152-FZ Compliance Scanner · Auto-Service Automation · Barber Booking App
 
 ---
 
