@@ -42,15 +42,14 @@
 
 ### Избранные проекты
 
-- **[LLM Support-QA Scorer](https://github.com/zubarevdm/llm-support-qa-scorer)** — оценка качества тикетов службы поддержки через LLM-as-judge по настраиваемой рубрике. FastAPI + CLI, запускается офлайн без ключа, покрыт тестами.
+- **[Migrant Legal Assistant](https://github.com/zubarevdm/migrant-legal-assistant-bot)** — Telegram-бот-ассистент для мигрантов: детерминированное rule-engine ядро + RAG по выверенной базе знаний, напоминания о дедлайнах. aiogram, LangGraph, pgvector, Docker, ~70 тестов.
+- **[WB Reviews Assistant](https://github.com/zubarevdm/wb-reviews-assistant)** — SaaS-помощник продавцов Wildberries: LLM-автоответы на отзывы с двухслойным фильтром безопасности и модерацией в Telegram. FastAPI, aiogram, шифрование токенов.
+- **[RentRadar](https://github.com/zubarevdm/rentradar)** — поиск недооценённых объявлений аренды со скорингом и LLM-анализом фото, автопостинг в Telegram. Python, SQLAlchemy, 140+ тестов.
+- **[LLM Support-QA Scorer](https://github.com/zubarevdm/llm-support-qa-scorer)** — оценка качества тикетов поддержки через LLM-as-judge по настраиваемой рубрике. FastAPI + CLI, запускается офлайн без ключа.
+- **[PII Gateway](https://github.com/zubarevdm/pii-gateway)** — локальный прокси, обезличивающий персональные данные перед отправкой в зарубежные LLM. FastAPI, natasha NER.
+- **[AIComply](https://github.com/zubarevdm/aicomply)** — SaaS под EU AI Act: обучение AI-грамотности, квиз и верифицируемые сертификаты. Next.js, Supabase, Stripe.
 
-<!--
-По мере публикации остальных репозиториев добавляй их сюда и закрепляй в профиле
-(Customize your pins):
-- **Легализация** — Telegram-бот-ассистент для мигрантов: rule engine + RAG + напоминания о дедлайнах. aiogram, LangGraph, pgvector, Docker.
-- **PII Gateway** — локальный прокси, обезличивающий персональные данные перед отправкой в зарубежные LLM. FastAPI, natasha NER.
-- **WB Reviews Assistant** — SaaS-автоответы на отзывы Wildberries через LLM с модерацией в Telegram.
--->
+Ещё: [152-FZ Compliance Scanner](https://github.com/zubarevdm/ru-152fz-compliance-scanner) · [Auto-Service Automation](https://github.com/zubarevdm/auto-service-automation) · [Barber Booking App](https://github.com/zubarevdm/barber-booking-app)
 
 ---
 
