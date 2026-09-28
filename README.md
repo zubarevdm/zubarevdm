@@ -32,6 +32,9 @@
 
 Код открыт, можно смотреть и запускать.
 
+**[inn2domain](https://github.com/zubarevdm/inn-to-domain)** · Python, GigaChat, eval
+Определяет домен официального сайта организации по ИНН: реквизиты, WHOIS, веб-поиск, LLM-верификация. На размеченном наборе точность 0.93 при нуле неверных доменов. Если уверенности нет, пайплайн отвечает null, потому что неверный домен в справочнике дороже пустого поля.
+
 **[RentRadar](https://github.com/zubarevdm/rentradar)** · Python, SQLAlchemy, LLM
 Поиск недооценённых объявлений аренды. Скоринг по настраиваемым профилям, LLM-анализ фотографий, автопостинг в Telegram. Веса и пороги вынесены в конфиг, чтобы менять логику отбора без правки кода. 140+ тестов.
 
@@ -56,7 +59,7 @@ SaaS под EU AI Act. Обучение AI-грамотности, квиз и �
 
 ### Стек
 
-**AI и LLM.** LangChain · RAG · MCP · Prompt Engineering · Multi-agent · GPT · Claude · Gemini · Ollama · PyTorch
+**AI и LLM.** LangChain · RAG · MCP · Prompt Engineering · Multi-agent · GPT · Claude · Gemini · Ollama
 **Автоматизация.** n8n · Make · Voiceflow · Relevance AI
 **Backend.** Python · FastAPI · PostgreSQL · SQLAlchemy · REST API · SQL
 **Инфраструктура.** Docker · CI/CD · Linux · Git
